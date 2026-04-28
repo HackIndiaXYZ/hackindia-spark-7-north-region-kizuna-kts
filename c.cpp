@@ -99,7 +99,7 @@ int sensorValHelp = digitalRead(5);
    {
       myDisplay.displayClear();
       flag = 0;
-      delay (2000);
+       delay (2000);
    }
    
 }
